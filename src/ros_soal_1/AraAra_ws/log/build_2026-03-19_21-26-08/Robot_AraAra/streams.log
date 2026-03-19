@@ -1,0 +1,78 @@
+[0.014s] Invoking command in '/home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/build/Robot_AraAra': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/src/Robot_AraAra -DCMAKE_INSTALL_PREFIX=/home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/install/Robot_AraAra
+[0.085s] -- The C compiler identification is GNU 11.4.0
+[0.159s] -- The CXX compiler identification is GNU 11.4.0
+[0.169s] -- Detecting C compiler ABI info
+[0.242s] -- Detecting C compiler ABI info - done
+[0.246s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.247s] -- Detecting C compile features
+[0.247s] -- Detecting C compile features - done
+[0.249s] -- Detecting CXX compiler ABI info
+[0.326s] -- Detecting CXX compiler ABI info - done
+[0.331s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.332s] -- Detecting CXX compile features
+[0.332s] -- Detecting CXX compile features - done
+[0.334s] -- Found ament_cmake: 1.3.13 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.451s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.516s] -- Found rclcpp: 16.0.18 (/opt/ros/humble/share/rclcpp/cmake)
+[0.544s] -- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.547s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.553s] -- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.561s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.571s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.599s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.601s] -- Found rmw_fastrtps_cpp: 6.2.10 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.682s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.704s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.739s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.745s] -- Looking for pthread.h
+[0.819s] -- Looking for pthread.h - found
+[0.819s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.894s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.895s] -- Found Threads: TRUE  
+[0.929s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.970s] WARNING: Package name "Robot_AraAra" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[0.992s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.992s] -- Configured cppcheck include dirs: 
+[0.992s] -- Configured cppcheck exclude dirs and/or files: 
+[0.992s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.992s] -- Added test 'lint_cmake' to check CMake code style
+[0.993s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.994s] -- Added test 'uncrustify' to check C / C++ code style
+[0.994s] -- Configured uncrustify additional arguments: 
+[0.994s] -- Added test 'xmllint' to check XML markup files
+[0.995s] -- Configuring done
+[1.005s] -- Generating done
+[1.009s] -- Build files have been written to: /home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/build/Robot_AraAra
+[1.020s] Invoked command in '/home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/build/Robot_AraAra' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/src/Robot_AraAra -DCMAKE_INSTALL_PREFIX=/home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/install/Robot_AraAra
+[1.022s] Invoking command in '/home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/build/Robot_AraAra': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/build/Robot_AraAra -- -j16 -l16
+[1.073s] [ 50%] [32mBuilding CXX object CMakeFiles/robot_exe.dir/src/robot_subscriber.cpp.o[0m
+[1.073s] [ 50%] [32mBuilding CXX object CMakeFiles/suara_exe.dir/src/suara_publisher.cpp.o[0m
+[4.447s] [ 75%] [32m[1mLinking CXX executable suara_exe[0m
+[4.587s] [ 75%] Built target suara_exe
+[7.105s] [100%] [32m[1mLinking CXX executable robot_exe[0m
+[7.355s] [100%] Built target robot_exe
+[7.367s] Invoked command in '/home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/build/Robot_AraAra' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/build/Robot_AraAra -- -j16 -l16
+[7.376s] Invoking command in '/home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/build/Robot_AraAra': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/build/Robot_AraAra
+[7.382s] -- Install configuration: ""
+[7.382s] -- Installing: /home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/install/Robot_AraAra/lib/Robot_AraAra/suara_exe
+[7.384s] -- Set runtime path of "/home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/install/Robot_AraAra/lib/Robot_AraAra/suara_exe" to ""
+[7.384s] -- Installing: /home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/install/Robot_AraAra/lib/Robot_AraAra/robot_exe
+[7.387s] -- Set runtime path of "/home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/install/Robot_AraAra/lib/Robot_AraAra/robot_exe" to ""
+[7.387s] -- Installing: /home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/install/Robot_AraAra/share/Robot_AraAra/launch
+[7.388s] -- Installing: /home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/install/Robot_AraAra/share/Robot_AraAra/launch/Robot_AraAra.py
+[7.388s] -- Installing: /home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/install/Robot_AraAra/share/ament_index/resource_index/package_run_dependencies/Robot_AraAra
+[7.388s] -- Installing: /home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/install/Robot_AraAra/share/ament_index/resource_index/parent_prefix_path/Robot_AraAra
+[7.388s] -- Installing: /home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/install/Robot_AraAra/share/Robot_AraAra/environment/ament_prefix_path.sh
+[7.388s] -- Installing: /home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/install/Robot_AraAra/share/Robot_AraAra/environment/ament_prefix_path.dsv
+[7.389s] -- Installing: /home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/install/Robot_AraAra/share/Robot_AraAra/environment/path.sh
+[7.389s] -- Installing: /home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/install/Robot_AraAra/share/Robot_AraAra/environment/path.dsv
+[7.389s] -- Installing: /home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/install/Robot_AraAra/share/Robot_AraAra/local_setup.bash
+[7.389s] -- Installing: /home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/install/Robot_AraAra/share/Robot_AraAra/local_setup.sh
+[7.389s] -- Installing: /home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/install/Robot_AraAra/share/Robot_AraAra/local_setup.zsh
+[7.390s] -- Installing: /home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/install/Robot_AraAra/share/Robot_AraAra/local_setup.dsv
+[7.390s] -- Installing: /home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/install/Robot_AraAra/share/Robot_AraAra/package.dsv
+[7.390s] -- Installing: /home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/install/Robot_AraAra/share/ament_index/resource_index/packages/Robot_AraAra
+[7.390s] -- Installing: /home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/install/Robot_AraAra/share/Robot_AraAra/cmake/Robot_AraAraConfig.cmake
+[7.390s] -- Installing: /home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/install/Robot_AraAra/share/Robot_AraAra/cmake/Robot_AraAraConfig-version.cmake
+[7.390s] -- Installing: /home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/install/Robot_AraAra/share/Robot_AraAra/package.xml
+[7.392s] Invoked command in '/home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/build/Robot_AraAra' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/build/Robot_AraAra

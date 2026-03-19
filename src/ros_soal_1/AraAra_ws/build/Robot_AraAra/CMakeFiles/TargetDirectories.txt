@@ -1,0 +1,11 @@
+/home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/build/Robot_AraAra/CMakeFiles/uninstall.dir
+/home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/build/Robot_AraAra/CMakeFiles/Robot_AraAra_uninstall.dir
+/home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/build/Robot_AraAra/CMakeFiles/suara_exe.dir
+/home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/build/Robot_AraAra/CMakeFiles/robot_exe.dir
+/home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/build/Robot_AraAra/CMakeFiles/test.dir
+/home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/build/Robot_AraAra/CMakeFiles/edit_cache.dir
+/home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/build/Robot_AraAra/CMakeFiles/rebuild_cache.dir
+/home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/build/Robot_AraAra/CMakeFiles/list_install_components.dir
+/home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/build/Robot_AraAra/CMakeFiles/install.dir
+/home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/build/Robot_AraAra/CMakeFiles/install/local.dir
+/home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/build/Robot_AraAra/CMakeFiles/install/strip.dir

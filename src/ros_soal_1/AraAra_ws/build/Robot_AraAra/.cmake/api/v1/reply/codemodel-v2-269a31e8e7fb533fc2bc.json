@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-3b92ef9436e7af9ac02b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Robot_AraAra",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Robot_AraAra_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Robot_AraAra_uninstall-2c43aee6640b79bdac7a.json",
+					"name" : "Robot_AraAra_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robot_exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robot_exe-fb6a5cadec0226f874c9.json",
+					"name" : "robot_exe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "suara_exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-suara_exe-3823eca52ee60b508f12.json",
+					"name" : "suara_exe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-3ad04fcd41c93a8ae4d7.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/build/Robot_AraAra",
+		"source" : "/home/venti/Documents/SEKURO_TUGAS_1_Abraham-Bagunna-Adiwijaya_PROGRAMMING/src/ros_soal_1/AraAra_ws/src/Robot_AraAra"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
